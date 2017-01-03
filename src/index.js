@@ -6,7 +6,7 @@ import VideoList from './components/video_list';
 
 
 // youtube API Key
-const API_KEY ='AIzaSyD0qbXKjaW0AV58KXnOa4w9Up33j-ThEOQ';
+const API_KEY ='REDACTED';
 // Download and install npm APIey search.
 // npm install --save youtube-api-search
 
